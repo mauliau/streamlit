@@ -45,7 +45,7 @@ streamlit run simulasi_analisis_penjualan.py
 ```
 
 ## 🧾 Data
-Data dibaca dari file: `data/penjualan.csv`
+Data di generate secara random (data yang di upload adalah contoh data random berdasarkan hasil generate)
 
 ## 🌐 Link Deployment
 
