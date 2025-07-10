@@ -49,7 +49,7 @@ Data dibaca dari file: `data/penjualan.csv`
 
 ## 🌐 Link Deployment
 
-➡️ [https://share.streamlit.io/mauliau/streamlit/simulasi_analisis_penjualan.py](https://share.streamlit.io/mauliau/streamlit/simulasi_analisis_penjualan.py)
+➡️ [Link](https://app-apdujjko9ybvhexmfddgvy.streamlit.app/)
 
 ## 🧾 Lisensi
 
