@@ -4,7 +4,7 @@ import numpy as np
 import altair as alt
 
 # Title
-st.title("📊 Analisis Sederhana Data Penjualan")
+st.title("Simulasi Analisis Sederhana Data Penjualan")
 
 # Sidebar inputs
 st.sidebar.header("Pengaturan")
