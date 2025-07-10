@@ -49,7 +49,7 @@ Data dibaca dari file: `data/penjualan.csv`
 
 ## 🌐 Link Deployment
 
-➡️ [Link](https://app-apdujjko9ybvhexmfddgvy.streamlit.app/)
+➡️ [Simulasi Analisis Penjualan](https://app-apdujjko9ybvhexmfddgvy.streamlit.app/)
 
 ## 🧾 Lisensi
 
